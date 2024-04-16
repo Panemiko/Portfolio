@@ -15,7 +15,7 @@ const firaCode = Fira_Code({
 });
 
 export const metadata: Metadata = {
-  title: "Tito Oliveira | Desenvolvedor Full-Stack",
+  title: "Criação de Sites Profissionais em Santa Cruz do Sul | Tito Oliveira",
   description:
     "Olá! Sou Tito Lucca Oliveira, um desenvolvedor Full-Stack de Santa Cruz do Sul - RS, especializado em criar experiências digitais excepcionais.",
   authors: [
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     },
   ],
   keywords:
-    "desenvolvedor, full-stack, react, typescript, website, Santa Cruz do Sul, RS",
+    "desenvolvedor, site, full-stack, react, website, comercial, site comercial, pequeno negócio, Santa Cruz do Sul, RS",
   metadataBase: new URL("https://titooliveira.com/opengraph-image.png"),
   formatDetection: {
     email: false,
