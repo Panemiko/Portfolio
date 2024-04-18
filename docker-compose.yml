@@ -5,4 +5,4 @@ services:
     build: .
     restart: unless-stopped
     ports:
-      - "12292:3000"
+      - "${LOCAL_PORT}:3000"
