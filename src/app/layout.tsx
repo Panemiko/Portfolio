@@ -59,6 +59,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-BR">
+      <script defer src="https://analytics.cobuilt.in/script.js" data-website-id="1b5eaa1c-ad75-4745-9f16-62655e181246"></script>
       <body className={`font-sans ${inter.variable} ${firaCode.variable}`}>
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
           {children}
